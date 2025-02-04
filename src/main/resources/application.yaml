@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kotlin-crud
+  datasource:
+    url: jdbc:postgresql://localhost:5432/crud_db
+    username: postgres
+    password: pass
